@@ -1,1 +1,2 @@
-# node_js_courses is to assign courses to students
+# Node-JS-student-courses-assignment
+is used to assign courses to students.
